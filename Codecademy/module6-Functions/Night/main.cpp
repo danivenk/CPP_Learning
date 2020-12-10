@@ -1,7 +1,7 @@
 #include <iostream>
 #include <chrono>
 
-#include "night16.h"
+#include "night.h"
 
 int main()
 {

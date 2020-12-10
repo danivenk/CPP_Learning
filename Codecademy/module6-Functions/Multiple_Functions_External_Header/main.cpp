@@ -1,5 +1,5 @@
 #include <iostream>
-#include "fns15.h"
+#include "fns.h"
 
 int main() {
   
